@@ -1,6 +1,11 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"oJugador","order":2,"path":"objects/oJugador/oJugador.yy",},
+    {"name":"oPared","order":6,"path":"objects/oPared/oPared.yy",},
     {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
+    {"name":"Sprite2","order":4,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Sprite3","order":5,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Sprite4","order":7,"path":"sprites/Sprite4/Sprite4.yy",},
   ],
 }
